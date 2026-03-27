@@ -10,7 +10,7 @@ Dự án **Employee Tracker** là một ứng dụng phần mềm giúp quản l
 ## 🛠️ Cài đặt và Chạy dự án
 
 **1. Clone dự án về máy**
-git clone [https://github.com/username-cua-ban/employ_tracker.git](https://github.com/username-cua-ban/employ_tracker.git)
+git clone [https://github.com/hohquangsang/employ_tracker.git](https://github.com/username-cua-ban/employ_tracker.git)
 cd employ_tracker
 
 **2.Thiết lặp môi trường ảo**
